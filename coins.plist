@@ -313,6 +313,44 @@
 				<string>btcusd</string>
 			</dict>
 		</dict>
+		<key>BCH</key>
+		<dict>
+			<key>tag</key>
+			<integer>4</integer>
+			<key>name</key>
+			<string>BitcoinCash</string>
+			<key>mark</key>
+			<string>E0F2</string>
+			<key>marketParams</key>
+			<dict>
+				<key>Korbit</key>
+				<string>bch_krw</string>
+				<key>Bithumb</key>
+				<string>bch</string>
+				<key>Coinone</key>
+				<string>bch</string>
+				<key>Poloniex</key>
+				<string>BTC_BCH</string>
+				<key>Bittrex</key>
+				<string>BTC-BCH</string>
+				<key>Gdax</key>
+				<string>BCH-USD/ticker</string>
+				<key>Kraken</key>
+				<string>BCHUSD</string>
+				<key>Bitfinex</key>
+				<string>bchbtc</string>
+				<key>Coincheck</key>
+				<string>bch_btc</string>
+				<key>Coincheck</key>
+				<string>bch_btc</string>
+				<key>Bitflyer</key>
+				<string>BCH_BTC</string>
+				<key>Okcoin</key>
+				<string>bch_cny</string>
+				<key>Bitstamp</key>
+				<string>bchbtc</string>
+			</dict>
+		</dict>
 		<key>ETH</key>
 		<dict>
 			<key>tag</key>

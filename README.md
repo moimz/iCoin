@@ -18,13 +18,14 @@ macOS menubar ticker that displays the latest crypto currency(BTC, ETH, ETC, XRP
 ## Features
 - Auto refresh (10s ~ 1h)
 - Manual refresh
-- Support BTC, ETH, ETC, XRP and etc.
+- Support BTC, BCH, ETH, ETC, XRP and etc.
 - Store preferences and sync via iCloud
 - Notification
 
 
 ## Support Coin
 - BTC (Bitcoin)
+- BCH (Bitcoin Cash)
 - ETH (Ethereum)
 - ETC (Ethereum Classic)
 - XRP (Ripple)
